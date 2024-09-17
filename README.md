@@ -6,6 +6,7 @@
 |--|--|--|--|--|
 |  |  |
 
+**Örnek Webview yapısı:**
 
 ```c++
 #include "webview.h" 
