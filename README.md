@@ -1,6 +1,6 @@
 # Directory Frontend
 
-**Directory Frontend**, telefon rehberinizi PostgreSQL veritabanı kullanarak yönetmenize olanak sağlayan C++ tabanlı bir web projesidir. **Crow** framework'ü ile güçlü bir backend oluştururken, hızlı ve esnek bir API geliştirme deneyimi sunar. Veritabanı işlemleri için **libpqxx** kütüphanesini kullanır. Bu projede, kullanıcıların telefon numaralarını ekleyebileceği, düzenleyebileceği ve silebileceği temel CRUD (Create, Read, Update, Delete) işlemleri sağlanmaktadır.
+**Directory Frontend**, telefon rehberinizi PostgreSQL veritabanı kullanarak yönetmenize olanak sağlayan C++ tabanlı bir web projesidir. **Crow** framework'ü ile güçlü bir backend oluştururken, entegre **Webview** kullanır. Veritabanı işlemleri için **libpqxx** kütüphanesini kullanır. Bu projede, kullanıcıların telefon numaralarını ekleyebileceği, düzenleyebileceği ve silebileceği temel CRUD (Create, Read, Update, Delete) işlemleri sağlanmaktadır.
 
 ## 📌 Özellikler
 
