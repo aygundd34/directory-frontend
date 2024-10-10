@@ -56,10 +56,3 @@ RESTful API ile aşağıdaki işlemleri gerçekleştirebilirsiniz:
 ## 🌐 Webview (Ön Yüz)
 
 Projenin ön yüzü, entegre edilmiş HTML, CSS ve JavaScript kullanılarak geliştirilmiştir. **Webview** sayesinde kullanıcı arayüzü doğrudan uygulama içinde görüntülenir ve backend ile etkileşim sağlar. Bu sayede kullanıcılar, telefon rehberlerini rahatça yönetebilirler.
-
-### Webview Özellikleri
-
--   **Etkileşimli Arayüz:** Kullanıcı dostu ve estetik tasarım.
--   **Responsive Tasarım:** Mobil, tablet ve masaüstü cihazlarda uyumlu çalışır.
--   **Dinamik Veri Görüntüleme:** API çağrıları ile veritabanındaki veriler gerçek zamanlı olarak güncellenir.
--   **Popup Pencereler:** Kişi ekleme ve güncelleme işlemleri için modal pencereler kullanılır.
