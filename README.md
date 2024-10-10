@@ -15,7 +15,7 @@
 
 Bu projede kullanılan başlıca teknolojiler şunlardır:
 
--   **C++17:** Uygulamanın temel programlama dili.
+-   **C++:** Uygulamanın temel programlama dili.
 -   **Crow Framework:** C++ için hızlı ve minimalist bir HTTP framework'ü.
 -   **PostgreSQL:** Projede kullanılan veritabanı yönetim sistemi.
 -   **libpqxx:** PostgreSQL ile C++ üzerinden veritabanı bağlantısı sağlayan kütüphane.
